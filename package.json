@@ -1,0 +1,15 @@
+{
+  "name": "black-sprites",
+  "version": "1.0.0",
+  "description": "Repo with all Pokémon sprites, but for Who's that Pokémon!",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "DjDeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}
